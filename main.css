@@ -1,0 +1,17 @@
+/*body {
+
+	background-image: url('img/stage1.jpg');
+ 	background-repeat: repeat-y;
+
+
+
+}
+*/
+
+body { 
+  background: url(img/stage1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
